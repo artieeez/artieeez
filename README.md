@@ -23,6 +23,6 @@ You can talk to an agent that reads my notes in the link below.
 
 ---
 
-🇧🇷🇵🇹 Aos colegas falantes da língua portuguesa, convido ao clube de leitura do Craft Code Club. Estamos lendo *Designing Data-Intensive Applications*.
+🇧🇷🇵🇹 Aos colegas falantes da língua portuguesa, convido ao clube de leitura do Craft & Code Club. Estamos lendo *Designing Data-Intensive Applications*.
 
 https://craftcodeclub.io/book-clubs/designing-data-intensive-applications
