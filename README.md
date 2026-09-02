@@ -2,7 +2,7 @@
 
 Software engineer.
 
-I spent the last few years at Networkme, working with a variety of tech stacks
+I spent the last few years at [Networkme](https://networkme.com.br/), working with a variety of tech stacks
 and international clients. Lately I've been exploring agentic systems and
 self-hosted platforms for development.
 
@@ -19,5 +19,10 @@ You can talk to an agent that reads my notes in the link below.
 **Elsewhere**
 
 - [LinkedIn](https://www.linkedin.com/in/arturwebber)
-- [Networkme](https://networkme.com.br/)
 - [Email](mailto:a.webber.oliveira@gmail.com)
+
+---
+
+🇧🇷🇵🇹 Aos colegas falantes da língua portuguesa, convido ao clube de leitura do Craft Code Club. Estamos lendo *Designing Data-Intensive Applications*.
+
+https://craftcodeclub.io/book-clubs/designing-data-intensive-applications
