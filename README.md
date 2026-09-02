@@ -9,16 +9,15 @@ self-hosted platforms for development.
 **Areas of interest**
 
 - Agentic systems
-- Self-hosted platforms for development
+- Self hosting
+- Platform and Product Engineering
 
-You can talk to an agent that reads notes I keep by hand — ask anything about
-the systems I build or how I got here.
+You can talk to an agent that reads my notes in the link below.
 
 [Let's talk](https://artr.com.br)
 
 **Elsewhere**
 
-- [GitHub](https://github.com/artieeez)
 - [LinkedIn](https://www.linkedin.com/in/arturwebber)
 - [Networkme](https://networkme.com.br/)
 - [Email](mailto:a.webber.oliveira@gmail.com)
