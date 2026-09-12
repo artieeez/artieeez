@@ -14,7 +14,7 @@ self-hosted platforms for development.
 
 You can talk to an agent that reads my notes in the link below.
 
-[Let's talk](https://artr.com.br)
+[Let's talk](https://artr.com.br?a=oTARbyqvAA)
 
 **Elsewhere**
 
